@@ -33,7 +33,7 @@ It wraps common CAN Bus tasks into an interactive, user-friendly interface so yo
 
 ---
 
-## 📦 Installating CANtastic!
+## 📦 Installing CANtastic!
 
 To install CANtastic!, simply copy & paste the following commands into the Linux terminal:
 
