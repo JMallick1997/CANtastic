@@ -12,8 +12,8 @@
 CONFIG_FILE="/etc/network/interfaces.d/can0"
 SCRIPT_NAME="Cantastic.sh"
 SCRIPT_VERSION="1.0.1"
-SCRIPT_URL="https://raw.githubusercontent.com/YourUsername/YourRepo/main/Cantastic.sh"
-VERSION_URL="https://raw.githubusercontent.com/YourUsername/YourRepo/main/version.txt"
+SCRIPT_URL="https://github.com/JMallick1997/CANtastic/blob/main/Cantastic.sh"
+VERSION_URL="https://github.com/JMallick1997/CANtastic/blob/main/version.txt"
 
 ########################################
 # CAN0 Functions
