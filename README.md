@@ -1,5 +1,17 @@
 # 🟨 CANtastic! 🟩
 
+**Version 2.0.1 just released! Now with the following new features:**
+- Full SystemD support
+- Multiple newer configuration setups including Esoterical
+- Broken CAN configuration detection
+- Built in file viewer
+- Script update tool
+- Error codes for easier debugging
+
+---
+**About
+---
+
 CANtastic! is a feature-rich shell script designed to make managing and troubleshooting **CAN Bus** configurations for [Klipper](https://www.klipper3d.org/) on Linux systems easier than ever.  
 It wraps common CAN Bus tasks into an interactive, user-friendly interface so you can set up, configure, and test your CAN Bus network without memorizing long terminal commands.
 
